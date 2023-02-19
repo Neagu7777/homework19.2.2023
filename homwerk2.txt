@@ -1,0 +1,10 @@
+   0 mkdir -p /home/user/start/1.txt /opt/task/start.txt
+   1 date >> 1.txt
+   2  cp -r /home/user/start/1.txt /opt/task/start.txt
+   3 df -h
+   4 df -h | tail -4
+   5 ls -al
+   6 ls -l
+   7 df -h
+   8 history
+   9 history > homwerk2.txt
